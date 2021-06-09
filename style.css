@@ -1,0 +1,16 @@
+.menu{background-color:lightskyblue;
+    display:flex;       
+   justify-content: space-between }
+
+.grid{background-color: pink;
+      display:flex;
+      flex-wrap: wrap;
+      width:500;
+      height:500;
+      border:2}
+.paper cranes{border-radius:20;
+              background-color: honeydew;}
+.paper hearts{border-radius:20;
+              background-color: plum;}
+.paper frog{border-radius:20;
+            background-color: greenyellow;}
